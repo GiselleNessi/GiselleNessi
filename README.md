@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer Graduate from the Code Institute with a focus on Python and JavaScript and a background in design. I'm from Venezuela, currently living in London and seeking an oportunity as a Software Developer.
+My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer Graduate from the Code Institute with a focus on Python and JavaScript and a background in design. I'm from Venezuela, currently living in London.
 
 
 
