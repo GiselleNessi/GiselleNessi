@@ -33,17 +33,6 @@ My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer Graduate
 <p align = "center">
 
   [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://gisellechacon.com/work)
-  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Gi_Chacon) 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gisellechacon/)
 </p>
 
-
-
-
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleNessi&hide=css,java,html&theme=tokyonight">
-</p>
