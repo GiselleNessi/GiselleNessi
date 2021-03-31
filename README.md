@@ -24,7 +24,6 @@ My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer Graduate
 
 - 👨🏽‍💻 Fast learner and eager to master and explore new technologies
 - 🌱 Avocate for the Latinx and LGBT+ community 
-- 😊 Willing to contribute in opensource development projects
 - 📫 My personal [website](https://gisellechacon.com/work) contact me and download my CV
 - 😄 Pronouns: she/her
 
@@ -46,6 +45,5 @@ My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer Graduate
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=GiselleNessi&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleNessi&hide=css,java,html&theme=tokyonight">
 </p>
