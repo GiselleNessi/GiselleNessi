@@ -18,17 +18,14 @@ Here are some ideas to get you started:
 
 ## Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer Graduate from the Code Institute with a focus on Python and JavaScript and a background in design. I'm from Venezuela, currently living in London.
+My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer with a focus on JavaScript and a background in design. I'm from Venezuela, currently living in London.
 
 
-
+- 🔭 I’m currently working with React, React Native, GraphlQL and Apollo Client
 - 👨🏽‍💻 Fast learner and eager to master and explore new technologies
 - 🌱 Avocate for the Latinx and LGBT+ community 
-- 📫 My personal [website](https://gisellechacon.com/work) contact me and download my CV
 - 😄 Pronouns: she/her
 
-
-<summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
 
