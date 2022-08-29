@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 ## Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer with a focus on JavaScript and a background in design. I'm from Venezuela, currently living in London.
+My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer with a focus on JavaScript and a background in design. Passionated about web3, dapps, DAOs and blockchain development. 
 
 
 - 🔭 I’m currently working with React, React Native, GraphlQL and Apollo Client
+- 🌱 I’m currently learning web3 techonologies and blockchain development 
 - 👨🏽‍💻 Fast learner and eager to master and explore new technologies
 - 🌱 Avocate for the Latinx and LGBT+ community 
 - 😄 Pronouns: she/her
