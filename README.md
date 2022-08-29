@@ -22,7 +22,7 @@ My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer with a f
 
 
 - 🔭 I’m currently working with React, React Native, GraphlQL and Apollo Client
-- 🌱 Working and leaning web3 techonologies and blockchain development 
+- 🌱 Working and learning web3 techonologies and blockchain development 
 - 👨🏽‍💻 Fast learner and eager to master and explore new technologies
 - 🌱 Avocate for the Latinx and LGBT+ community 
 - 😄 Pronouns: she/her
