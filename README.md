@@ -29,6 +29,6 @@ My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer with a f
 
 
 <p align = "center">
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gisellechacon/)
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/gisellechacon/)
 </p>
 
