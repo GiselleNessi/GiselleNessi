@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Giselle Chacon Nessi and I'm a Full Stack Software Developer with a focus on JavaScript and a background in design. Passionate about web3, dapps, DAOs and blockchain development. 
+My name is Giselle Chacon Nessi and I'm a Front End Engineer. Passionate about web3, dapps, DAOs and blockchain development. 
 
 
 - 🔭 I’m currently working with React, React Native, GraphlQL and Apollo Client
