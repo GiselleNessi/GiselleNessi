@@ -26,9 +26,3 @@ My name is Giselle Chacon Nessi and I'm a Front End Engineer. Passionate about w
 - 👨🏽‍💻 Fast learner and eager to master and explore new technologies
 - 🌱 Avocate for the Latinx and LGBT+ community 
 - 😄 Pronouns: she/her
-
-
-<p align = "left">
-  <img href="https://www.linkedin.com/in/gisellechacon/" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
-
